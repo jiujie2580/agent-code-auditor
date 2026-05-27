@@ -1,7 +1,7 @@
 # Agent Code Audit Report
 
-Generated: 2026-05-25 15:45:17 UTC
-Target: `C:\Users\Administrator\Documents\Codex\2026-05-25\04-agent-ai-token-plan-1\demo\sample_project`
+Generated: 2026-05-27 08:50:08 UTC
+Target: `C:\Users\Administrator\Documents\Codex\2026-05-27\files-mentioned-by-the-user-b-2\existing-agent-code-auditor\demo\sample_project`
 
 ## Agent Workflow
 1. Map source files and choose audit scope
